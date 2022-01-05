@@ -1,4 +1,8 @@
-### Hi there 👋
+### Nikoli Ellison
+
+- 🗣️ Prnounced /'nɪkəlaɪ/
+- 📖 I study English, Linguistics, and German at Coastal Carolina University
+- 🧑‍🎓 I’m familiar with LaTeX, Python, JS, and Mathematica
 
 <!--
 **enikoli/enikoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
