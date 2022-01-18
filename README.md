@@ -1,6 +1,6 @@
 ### Nikoli Ellison
 
-- 🗣️ Prnounced /'nɪkəlaɪ/
+- 🗣️ Pronounced /'nɪkəlaɪ/
 - 📖 I study English, Linguistics, and German at Coastal Carolina University
 - 🧑‍🎓 I’m familiar with LaTeX, Python, JS, and Mathematica
 
